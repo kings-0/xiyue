@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b497075c-314d-4a89-9ba1-b8a79545d326" name="更改" comment="更新基础架构">
-      <changelist_data name="kings-0" email="" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/更改/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/APIs/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Comm/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Page/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Testcase/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="b497075c-314d-4a89-9ba1-b8a79545d326" name="更改" comment="更新基础架构" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +20,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="kings-0 &lt;738361572@qq.com&gt;" />
         <option value="kings-0" />
         <option value="Kings-0" />
         <option value="Kingins" />
@@ -85,8 +73,17 @@
       <option name="presentableId" value="Default" />
       <updated>1688629777275</updated>
       <workItem from="1688629778748" duration="425000" />
-      <workItem from="1688630213696" duration="1442000" />
+      <workItem from="1688630213696" duration="1801000" />
     </task>
+    <task id="LOCAL-00001" summary="更新基础架构">
+      <option name="closed" value="true" />
+      <created>1688631891753</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1688631891753</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
